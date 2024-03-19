@@ -1,9 +1,5 @@
 # Combine CSVs PowerShell Script
 
-This PowerShell script combines multiple CSV files into a single CSV file named `combined_dataset.csv`.
-
-# Combine CSVs PowerShell Script
-
 This PowerShell script, `CombineCSVs.ps1`, simplifies the process of combining multiple CSV files into a single file named `combined_dataset.csv`. It's designed to be used in environments where handling large amounts of CSV data efficiently is necessary.
 
 ## Introduction
